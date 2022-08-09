@@ -9,10 +9,11 @@ _🦌 网页小游戏 🥛_
 
 </div>
 
+boom～DVK SB DVK 大SB
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉DVK
 
 [English](README_EN.md)
 |
